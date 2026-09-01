@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="michael-jackson.jpg" alt="Michael Jackson Signature" width="300">
+</p>
  <p align="center">
   <img src="./michael.jpg" alt="Michael Jackson Man of the Decade" width="500">
 </p>
