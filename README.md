@@ -1,4 +1,3 @@
-<img src="lacedivider.png" alt="Lace Divider" width="100%">
  <p align="center">
   <img src="./michael.jpg" alt="Michael Jackson Man of the Decade" width="500">
 </p>
