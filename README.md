@@ -12,3 +12,6 @@
 <p align="center">
   <img src="./michael-jackson-star.jpg" alt="Michael Jackson star" width="500" />
 </p>
+<p align="center">
+  <img src="./vinyl-record.gif" alt="Vinyl record" width="250">
+</p>
