@@ -1,6 +1,6 @@
 <p align="center">
   <font color="gray">♡</font><br>
-  <font color="gray">"𝕺𝖓𝖊 𝖙𝖍𝖎𝖓𝖌 𝕴'𝖛𝖊 𝖑𝖊𝖆𝖗𝖓𝖊𝖉 𝖆𝖇𝖔𝖚𝖙 𝖒𝖞 𝖇𝖚𝖘𝖎𝖓𝖊𝖘𝖘 𝖎𝖘 𝖓𝖊𝖛𝖊𝖗 𝖘𝖆𝖞 𝖓𝖊𝖛𝖊𝖗."</font>
+  <font color="gray">*"𝕿𝖔 𝖌𝖎𝖛𝖊 𝖘𝖔𝖒𝖊𝖔𝖓𝖊 𝖆 𝖕𝖎𝖊𝖈𝖊 𝖔𝖋 𝖞𝖔𝖚𝖗 𝖍𝖊𝖆𝖗𝖙, 𝖎𝖘 𝖜𝖔𝖗𝖙𝖍 𝖒𝖔𝖗𝖊 𝖙𝖍𝖆𝖓 𝖆𝖑𝖑 𝖙𝖍𝖊 𝖜𝖊𝖆𝖑𝖙𝖍 𝖎𝖓 𝖙𝖍𝖊 𝖜𝖔𝖗𝖑𝖉."*</font>
 </p>
 
 <p align="center">
