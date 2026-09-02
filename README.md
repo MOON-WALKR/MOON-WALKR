@@ -6,9 +6,6 @@
   <img src="./mj-overlay.gif" alt="Michael Jackson decoration" width="500">
 </p>
 <p align="center">
-  <img src="./august-29-1958.png" alt="August 29, 1958" width="500">
-</p>
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=MOON-WALKR&label=Profile%20Views%20%E2%98%85&color=000000&style=flat" alt="Profile Views" />
 </p>
 
