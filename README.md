@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/fisheye.webp" width="300">
+  <img src="images/symbols(2).jpg" width="300">
   <img src="images/Chrissturniolo.jpg" width="180">
 </p>
 <p align="center">
