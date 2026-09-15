@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="images/fisheye.jpg" width="500">
+  <img src="./images/fisheye.jpg" width="500">
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MOON-WALKR&label=Profile%20Views&color=4A6263&style=flat">
