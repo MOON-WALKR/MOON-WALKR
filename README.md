@@ -3,4 +3,6 @@
   <br><br>
 <p align="center">
   <img src="Pepsi.jpg" width="150" alt="Pepsi Can">
+  &nbsp;&nbsp;
+  <img src="CHRIS.jpg" width="150" alt="Chris">
 </p>
